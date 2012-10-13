@@ -40,4 +40,4 @@
 
 ### ハッシュタグ
 
-* [#R4B_Micro](https://twitter.com/search/realtime?q=%23R4B_Micro&src=typd)
+* [#R4B_micro](https://twitter.com/search/realtime?q=%23R4B_micro&src=typd)
