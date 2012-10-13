@@ -1,7 +1,3 @@
-# Rails for Beginners Micro
-
-=====
-
 ### 日時
 
 * 毎月第二土曜日：14:00〜16:00
