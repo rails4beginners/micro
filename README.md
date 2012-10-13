@@ -1,4 +1,4 @@
-Rails for Beginners Micro
+# Rails for Beginners Micro
 
 =====
 
@@ -12,12 +12,26 @@ Rails for Beginners Micro
 
 ### 内容
 
-* Rails／Git／Heroku環境構築サポート(Mac限定)
+  * Rails／Git／Heroku環境構築サポート(Mac限定)
   * Ruby／Railsに関する気軽な相談会
   * サービス開発相談
   * ハマっている所を一緒に考える
   * ちょっとコード見て欲しい的な相談
   * あくまでビギナー向け(難しい事、時間が掛かる事、面倒な事はやらない)
-  * とりあえず@shu_0115が居るだけ(12:00頃〜16:30頃まではだいたい居るので、上記の時間以外でも対応は可能
+  * とりあえず[@shu_0115](https://twitter.com/shu_0115)が居るだけ(12:00頃〜16:30頃まではだいたい居るので、上記の時間以外でも対応は可能)
 
+### 主な想定対象
 
+* エンジニアとRailsで一緒に開発したい「デザイナー」
+* 学校でRubyを触ってRailsでもっとWebアプリなどを開発したい「学生」
+* Ruby／Railsについて気軽に相談したい「エンジニア」
+* 継続して学び続ける意志、姿勢を持っている人
+
+### サポート対象
+
+* Mac、Git、Ruby、Rails、GitHub、Heroku(※Windowsはサポート対象外)
+
+### 持ち物
+
+* MacBook／MacBook Pro／MacBook Airのいずれか(Snow Leopard Later)  
+  ※電源、Wi-Fiは会場にあります。
