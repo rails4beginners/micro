@@ -38,6 +38,10 @@
 * MacBook／MacBook Pro／MacBook Airのいずれか(Snow Leopard Later)  
   ※電源、Wi-Fiは会場にあります。
 
+### Facebookグループ
+
+* [Rails for Beginners](https://www.facebook.com/groups/rails4beginners/)
+
 ### ハッシュタグ
 
 * [#R4B_Micro](https://twitter.com/search/realtime?q=%23R4B_Micro&src=typd)
