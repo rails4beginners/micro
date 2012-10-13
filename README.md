@@ -8,7 +8,9 @@
 
 ### 場所
 
-* タネマキ(2時間500円+1ドリンク付き、2時間以上は昼間1日1000円+1ドリンク付き)
+* [タネマキ](http://tane-maki.net/)(2時間500円+1ドリンク付き、2時間以上は昼間1日1000円+1ドリンク付き)
+  * [アクセス](http://tane-maki.net/access/)
+  * [地図](https://maps.google.co.jp/maps?q=%E3%82%BF%E3%83%8D%E3%83%9E%E3%82%AD&ie=UTF-8&ei=Qdx4UP6hN4vFmQXFlICoAg&ved=0CAsQ_AUoAg)
 
 ### 内容
 
